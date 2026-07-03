@@ -1,0 +1,2 @@
+# ottawamajestictowers
+Static site: ottawamajestictowers
